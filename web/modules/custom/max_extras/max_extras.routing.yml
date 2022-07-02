@@ -1,0 +1,7 @@
+max_extras.main:
+  path: "/max-extras"
+  defaults:
+    _controller: '\Drupal\max_extras\Controller\MaxExtras::main'
+    _title: "Drupal 9 candidate project"
+  requirements:
+    _permission: "access content"

@@ -1,0 +1,6 @@
+name: Candidate project 01 (MaxExtras)
+type: module
+description: "A candidate project Drupal 9 custom module"
+package: Custom
+version: 1.0
+core_version_requirement: ^8 || ^9
